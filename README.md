@@ -4,7 +4,7 @@ The goal of this project is to analyze data from the **New York Road Runner's Wo
 
 ## Data Source 🗄:
 I couldn't find the desired data in a structed, easy to use format, so I mined the data from 
-[NYRR Half Marathon](https://results.nyrr.org/event/b00425/finishers) using a cURL command to the NYRR API endporint (https://results.nyrr.org/api/runners/finishers-filter).
+[NYRR Half Marathon](https://results.nyrr.org/event/b00425/finishers) using a cURL command to the NYRR API endpoint (https://results.nyrr.org/api/runners/finishers-filter).
 
 All raw data (JSON files) is provided in the Data folder.
 
@@ -46,7 +46,7 @@ All raw data (JSON files) is provided in the Data folder.
 
 ### The 50 Most Common First Names of Runners 
 
-- The following six names are amongst the 50 most commmon first names of runners across all years, but are not amonst the 50 most common names of top 500 finishers (common names that aren't top finishers): Barbara, Nancy, Kathleen, Kristen, Patricia, Linda.
+- The following six names are amongst the 50 most commmon first names of runners across all years, but are not amongst the 50 most common names of top 500 finishers (common names that aren't top finishers): Barbara, Nancy, Kathleen, Kristen, Patricia, Linda.
 
 ![Most Common First Names](./Images/CommonNames.png)
 
